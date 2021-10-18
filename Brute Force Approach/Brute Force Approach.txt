@@ -1,0 +1,14 @@
+Brute force method simply means that try out all the alternatives 
+until you are exhausted of options. If the problem is solvable,
+you will eventually find an answer.
+
+For example, imagine you have a small padlock with 4 digits, 
+each from 0-9.Unfortunately, you forgot your combination.
+So you set all the numbers back to 0 and try them one by one:
+0001, 0002, 0003, and so on until it opens. In the worst case 
+scenario, it would take 10^4, or 10,000 tries to find your 
+combination.
+
+
+
+
